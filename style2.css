@@ -1,6 +1,7 @@
 h1{
     letter-spacing: -10px;
-    text-shadow: 3px 2px black;
+    text-shadow: 3px 2px pink;
+    color: white;
     font-size: 300%;
     text-decoration: line-through;
 }
@@ -10,16 +11,24 @@ body {
     background-size: cover;
 }
 
+h2{
+    color: white;
+}
+
 h3{
     color: blue;
-    text-align: right;
+    text-align: center;
+    text-decoration: underline;
 }
 
 ul{
-    text-align: center;
+    text-align: right;
     font-weight: bold;
 }
 
 p{
     border-style: double;
+    text-transform: lowercase;
+    color: yellow;
+    font-style: oblique;
 }
