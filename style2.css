@@ -1,6 +1,6 @@
 h1{
     letter-spacing: -10px;
-    text-shadow: 3px 2px pink;
+    text-shadow: 30px 20px pink;
     color: white;
     font-size: 300%;
     text-decoration: line-through;
@@ -9,7 +9,6 @@ h1{
 body {
     background-image: url("http://www.startrek.com/images/TNG.jpg");
     background-size: cover;
-    font-size: 50px;
 }
 
 h2{
@@ -32,4 +31,25 @@ p{
     text-transform: lowercase;
     color: yellow;
     font-style: oblique;
+}
+
+.extreme{
+	font-size: 100px;
+	color: white;
+}
+
+.prose{
+	font-weight: bold;
+}
+
+.content{
+	text-align: center;
+}
+
+.navzone{
+	background-color: orange;
+}
+
+.tehlulz{
+	color: purple;
 }
