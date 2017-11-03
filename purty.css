@@ -1,0 +1,32 @@
+body{
+	background-color: #D6D3F0;
+}
+
+h1{
+	text-align: center;
+	color:#0B3142;
+	text-shadow: 5px 3px #C6B9CD;
+}
+
+ol{
+	list-style-type: upper-roman;
+}
+
+ul{
+	list-style-type: square;
+}
+
+.sub{
+	display: inline;
+}
+
+.top{
+	text-align: center;
+}
+
+.scroll{
+	background-color: #9C92A3;
+	width: 1320px;
+	height: 400px;
+	overflow: scroll;
+}
